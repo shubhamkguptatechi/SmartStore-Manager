@@ -1,0 +1,6 @@
+{
+  "name": "SmartStore Manager",
+  "description": "Complete offline grocery and general store management app with POS billing, inventory, profit calculation, expenses, cash register, and receipt printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
